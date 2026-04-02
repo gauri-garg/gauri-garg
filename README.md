@@ -4,14 +4,6 @@
   <b>Full-Stack Developer | CSE @ JECRC Foundation | SIH 2025 Finalist</b>
 </p>
 
-  <a href="mailto:garg.gauri.1020@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail" />
-  </a>
-  <a href="https://www.linkedin.com/in/gauri-garg-582011290">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin" />
-  </a>
-</p>
-
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&center=true&vCenter=true&width=650&lines=Full-Stack+Developer;Laravel+%7C+REST+APIs+%7C+Frontend;AI+%7C+Machine+Learning+Enthusiast;Building+Scalable+Web+Applications;Top+20+SIH+Finalist;Turning+Ideas+Into+Real+Products" />
 </p>
