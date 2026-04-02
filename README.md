@@ -4,10 +4,6 @@
   <b>Full-Stack Developer | CSE @ JECRC Foundation | SIH 2025 Finalist</b>
 </p>
 
-<p align="center">
-  <a href="https://gaurigarg.com">
-    <img src="https://img.shields.io/badge/🌐 Portfolio-gaurigarg.com-blue?style=for-the-badge" />
-  </a>
   <a href="mailto:garg.gauri.1020@gmail.com">
     <img src="https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail" />
   </a>
@@ -70,7 +66,7 @@ I also bring a unique advantage as a **Professional Voice-over Artist**, combini
 
 ## 🏆 Achievements
 
-- 🥇 **Top 20 Finalist — Smart India Hackathon 2025**
+- 🥇 **Top 20 Finalist — Smart India Hackathon Prelims 2025**
 - 📜 **Microsoft Applied Skills Certified**
 - 💼 **Industry Experience as Web Developer**
 
@@ -79,7 +75,6 @@ I also bring a unique advantage as a **Professional Voice-over Artist**, combini
 ## 🚀 Featured Projects
 
 ### 🧠 Healthcare — AI Mental Wellness Platform
-🔗 https://gaurigarg.com  
 
 - Built AI chatbot for mental health support  
 - Real-time backend + interactive UI  
@@ -87,52 +82,18 @@ I also bring a unique advantage as a **Professional Voice-over Artist**, combini
 
 ---
 
-### 🌊 AquaInsight — AI Ocean Intelligence Platform
-🔗 https://gaurigarg.com  
+### 🌊 AquaInsight — AI Ocean Intelligence Platform 
 
 - Developed during Smart India Hackathon  
 - AI-based ocean data analysis & predictions  
 - Data-driven insights and visualization  
 
----
 
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=gauri-garg&show_icons=true&theme=tokyonight&hide_border=true" height="170"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=gauri-garg&theme=tokyonight&hide_border=true" height="170"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gauri-garg&layout=compact&theme=tokyonight&hide_border=true" />
-</p>
-
----
-
-## 🐍 Contribution Snake
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/gauri-garg/gauri-garg/output/snake.svg" />
-</p>
-
----
-
-## 🌟 What Makes Me Top 1%
-
-- 🚀 Strong problem-solving & analytical mindset  
-- ⚡ Performance-first development approach  
-- 🎯 Clean, scalable, production-ready code  
-- 🧠 Fast learner (AI/ML + modern frameworks)  
-- 🎤 Exceptional communication & presentation skills  
 
 ---
 
 ## 🤝 Let's Connect
 
-<p align="center">
-  <a href="https://gaurigarg.com">
-    <img src="https://img.shields.io/badge/Portfolio-Visit-blue?style=for-the-badge" />
-  </a>
   <a href="https://www.linkedin.com/in/gauri-garg-582011290">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin" />
   </a>
