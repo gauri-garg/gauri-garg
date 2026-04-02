@@ -1,6 +1,6 @@
 # <p align="center">✨ Gauri Garg ✨</p>
 <p align="center">
-  <b>Full-Stack Developer | JECRC CSE Student | Top 20 SIH 2025 Finalist</b>
+  <b>Full-Stack Developer | Aspiring Data Analyst | Top 20 SIH 2025 Finalist</b>
 </p>
 
 <p align="center">
@@ -10,25 +10,27 @@
 ---
 
 ### 🚀 Professional Summary
-[cite_start]I am a results-driven **Computer Science & Engineering** student at **JECRC Foundation** with a current **CGPA of 9.17**[cite: 56, 57]. [cite_start]Currently, I serve as a **Web Developer at Waplia Digital Solutions**, where I build and optimize scalable web applications[cite: 39, 40]. [cite_start]Beyond engineering, I am a **Professional Voice-over Artist**, providing a unique communication edge for marketing and technical presentations.
+[cite_start]I am a results-driven **Computer Science & Engineering** student at **JECRC Foundation** with a current **CGPA of 9.17**[cite: 57]. [cite_start]Currently, I serve as a **Web Developer at Waplia Digital Solutions**. [cite_start]Beyond engineering, I am a **Professional Voice-over Artist**, providing a unique communication edge for marketing and technical presentations[cite: 15].
 
 ---
 
 ### 💻 Technical Expertise
 
-- [cite_start]**Frontend:** HTML5, CSS3, JavaScript, Bootstrap, jQuery, Next.js (Learning) [cite: 9]
+- [cite_start]**Data & AI:** Python, Data Analytics, Machine Learning [cite: 6, 12, 32]
+- [cite_start]**Frontend:** HTML5, CSS3, JavaScript, Bootstrap, jQuery, Next.js [cite: 9]
 - [cite_start]**Backend:** PHP, Laravel, RESTful APIs [cite: 10]
 - [cite_start]**Databases:** MySQL, Firebase, phpMyAdmin [cite: 11]
-- [cite_start]**Languages:** C++, Python (Learning) [cite: 12]
-- [cite_start]**Tools:** Git, GitHub, VS Code, Postman, XAMPP, cPanel [cite: 13]
+- [cite_start]**Programming:** C++, Java [cite: 12]
+- [cite_start]**Tools:** Git, GitHub, VS Code, Postman, XAMPP [cite: 13]
 
 ---
 
-### 🏆 Key Achievements & Experience
+### 🏆 Key Achievements & Certifications
 
-* [cite_start]**SIH 2025 Top 20 Finalist:** Collaborated on **AquaInsight**, an AI-driven platform for oceanographic insights[cite: 32, 52].
-* [cite_start]**Web Developer (Waplia):** Implementing real-time API integrations and optimized backend connectivity[cite: 43, 44].
-* [cite_start]**Project Highlight:** Developed **Healthcare**, a mental wellness platform featuring an AI chatbot and real-time Firebase management[cite: 22, 23, 24].
+* **Microsoft Applied Skills:** Verified expertise in applying Microsoft technologies to real-world scenarios.
+* [cite_start]**SIH 2025 Top 20 Finalist:** Collaborated on **AquaInsight**, an AI-driven oceanographic platform[cite: 32, 52].
+* [cite_start]**Web Developer (Waplia):** Implementing real-time API integrations and optimized backend connectivity[cite: 41, 43].
+* [cite_start]**Project Highlight:** Developed **Healthcare**, a mental wellness platform featuring an AI chatbot[cite: 22, 23].
 
 ---
 
